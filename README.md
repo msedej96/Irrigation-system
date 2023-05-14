@@ -1,5 +1,5 @@
 # Irrigation-system
-Embedded irrigation system to provide a more optimal amount of water to the plants.
+Embedded irrigation system which provide a more optimal amount of water to the plants.
 
 The device is capable to control of 8 electromagnetic valves (with the extension even more). It also has a sensor for measuring temperature and humidity in the air, as well as moisture in the soil. For off-grid irrigation systems, it can control the (submersible) pump and monitor the water level in the tank.
 
