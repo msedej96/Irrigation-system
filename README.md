@@ -8,5 +8,6 @@ The valves (and pump) can be controlled according to a time schedule or accordin
 The heart of the embedded system is an 32-bit ESP8266 MCU with a Wifi connection. Sensors and I/O pin expansions are connected via the I2C bus. The main PCB is custom made.
 
 ![Alt text](https://github.com/msedej96/readme-images/blob/main/Irrigation-system-screenshots.jpg "Optional title")
+![Alt text](../readme-images/blob/main/Irrigation-system-screenshots.jpg "Optional title")
 Here are some screenshots of web interface (Slovenian language).
 
